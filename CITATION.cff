@@ -1,1 +1,50 @@
+cff-version: 1.2.0
 
+title: "Transcriptomic Biomarker Discovery for Drug-Induced Liver Injury Using Explainable Machine Learning"
+
+message: "If you use this repository, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Andika"
+    given-names: "Tahta Herdian"
+    affiliation: "Universitas Aisyah Pringsewu, Indonesia"
+
+  - family-names: "Karim"
+    given-names: "Dewi Damayanti Abdul"
+    affiliation: "Universitas Aisyah Pringsewu, Indonesia"
+
+  - family-names: "Gameiro"
+    given-names: "Joana Freire"
+
+  - family-names: "Ardhy"
+    given-names: "Ferly"
+
+repository-code: "https://github.com/Thata-ux/dili-transcriptomic-biomarkers-xai"
+
+license: "MIT"
+
+url: "https://github.com/Thata-ux/dili-transcriptomic-biomarkers-xai"
+
+abstract: >
+  This repository contains the complete computational workflow for
+  transcriptomic biomarker discovery of drug-induced liver injury (DILI)
+  using Open TG-GATEs, explainable machine learning, SHAP interpretation,
+  GO and KEGG enrichment analyses, and independent DrugMatrix validation.
+
+keywords:
+  - drug-induced liver injury
+  - DILI
+  - toxicogenomics
+  - transcriptomics
+  - explainable AI
+  - XGBoost
+  - SHAP
+  - biomarker discovery
+  - Open TG-GATEs
+  - DrugMatrix
+
+version: "1.0.0"
+
+date-released: "2026-07-02"
